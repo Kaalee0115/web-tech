@@ -1,0 +1,10 @@
+/* External CSS file */
+h2 {
+    color: #333;
+    font-size: 24px;
+}
+
+.link {
+    font-size: 18px;
+    text-decoration: underline;
+}
